@@ -1,0 +1,2 @@
+# Inspected source revision. Optional; offline app has no third-party dependencies.
+pyquotex @ https://github.com/cleitonleonel/pyquotex/archive/a50a030b425937fec4595b1ff1c226e160c52943.zip

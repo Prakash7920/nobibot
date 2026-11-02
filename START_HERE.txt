@@ -1,0 +1,18 @@
+NOBI TRADE v0.1 — FIRST WORKING BUILD
+
+1. Extract the ZIP.
+2. Check Python: py -3 --version (use Python 3.12 or newer).
+3. Double-click START_NOBI.bat.
+4. Click Load sample replay, then Start engine.
+
+Sample replay = generated test data. NOT live Quotex prices.
+Auto Trading in this version = local replay paper orders only.
+
+REAL BROKER DATA TEST:
+Close the app. Run INSTALL_CONNECTOR.bat, then CONNECT_QUOTEX.bat.
+Credentials enter locally in the terminal only.
+This optional unofficial connector is read-only and unverified on your account.
+Broker order execution is not included.
+
+Read README.md for the complete implemented/pending feature list.
+If something fails, send the error text with passwords, tokens and account details removed.
